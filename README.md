@@ -36,5 +36,5 @@ I'm an iOS developer passionate about building apps that feel great to use. I fo
 ## Connect
 
 [![Website](https://img.shields.io/badge/Website-ixsuper.github.io-000?style=flat&logo=safari&logoColor=white)](https://ixsuper.github.io)
-[![X](https://img.shields.io/badge/@ixsuper-000?style=flat&logo=x&logoColor=white)](https://x.com/ixsuper)
+[![X](https://img.shields.io/badge/@thesuper__hunter-000?style=flat&logo=x&logoColor=white)](https://x.com/thesuper_hunter)
 [![Email](https://img.shields.io/badge/contact@ixsuper.com-000?style=flat&logo=mail.ru&logoColor=white)](mailto:contact@ixsuper.com)
