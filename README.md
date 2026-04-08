@@ -37,4 +37,4 @@ I'm an iOS developer passionate about building apps that feel great to use. I fo
 
 [![Website](https://img.shields.io/badge/Website-ixsuper.github.io-000?style=flat&logo=safari&logoColor=white)](https://ixsuper.github.io)
 [![X](https://img.shields.io/badge/@thesuper__hunter-000?style=flat&logo=x&logoColor=white)](https://x.com/thesuper_hunter)
-[![Email](https://img.shields.io/badge/contact@ixsuper.com-000?style=flat&logo=mail.ru&logoColor=white)](mailto:contact@ixsuper.com)
+[![Email](https://img.shields.io/badge/alsuhaymiziyad@gmail.com-000?style=flat&logo=gmail&logoColor=white)](mailto:alsuhaymiziyad@gmail.com)
