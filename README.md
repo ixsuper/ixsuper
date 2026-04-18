@@ -1,40 +1,61 @@
-# Hi, I'm Ziyad Alsuhaymi
+<h1 align="center">Ziyad Alsuhaymi</h1>
 
-iOS Developer crafting polished, user-focused apps with Swift and SwiftUI.
+<p align="center">
+  Independent iOS developer · Saudi Arabia 🇸🇦<br>
+  Building polished apps and games end-to-end with Swift &amp; SwiftUI.
+</p>
 
----
-
-## About Me
-
-I'm an iOS developer passionate about building apps that feel great to use. I focus on clean architecture, smooth animations, and leveraging Apple's latest frameworks to deliver standout experiences.
-
----
-
-## Apps
-
-| | App | Description | Status |
-|---|---|---|---|
-| :earth_africa: | **Echoes: Echoes of the City** | Capture living memories with photo, ambient sound, weather, and location. Built with iOS 26, Liquid Glass, and on-device ML. | Coming Soon |
-| :boom: | **Block Blaster Puzzle** | A satisfying block puzzle game with explosive combos and sensory themes. | Coming Soon |
-| :1234: | **Color Number Match** | A colorful number matching puzzle game. | [App Store](https://apps.apple.com/app/color-number-match/id6761441678) |
+<p align="center">
+  <a href="https://ixsuper.github.io">🌐 ixsuper.github.io</a> ·
+  <a href="https://x.com/thesuper_hunter">𝕏 @thesuper_hunter</a> ·
+  <a href="mailto:alsuhaymiziyad@gmail.com">✉ alsuhaymiziyad@gmail.com</a>
+</p>
 
 ---
 
-## Tech Stack
+### 🚀 Live on the App Store
+
+**[Color Number Match](https://apps.apple.com/app/id6761441678)** — a vibrant puzzle game with 2,000+ levels across 10 packs, Metal shaders, haptic feedback, and 25 languages including full Arabic RTL.
+
+<a href="https://apps.apple.com/app/id6761441678">
+  <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="44">
+</a>
+
+---
+
+### 🛠 Currently building
+
+| | App | What it is |
+|:-:|---|---|
+| 🌍 | **[Echoes: Echoes of the City](https://ixsuper.github.io/echoes/)** | Capture living memories with photo, ambient sound, weather &amp; location. Built for iOS 26 with **Liquid Glass**, on-device ML, and an immersive memory map. Coming soon in 11 languages. |
+| 🧩 | **[Block Blaster Puzzle](https://ixsuper.github.io/block-blaster/)** | A satisfying block puzzle with explosive combos, sensory themes, and finely tuned haptic feedback. 6 game modes, 50 adventure levels, 7 languages. |
+
+---
+
+### ⚙️ Tech I reach for
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white)
-![CoreML](https://img.shields.io/badge/Core%20ML-34C759?style=flat&logo=apple&logoColor=white)
+![SwiftData](https://img.shields.io/badge/SwiftData-3693F3?style=flat&logo=apple&logoColor=white)
+![Metal](https://img.shields.io/badge/Metal-A100FF?style=flat&logo=apple&logoColor=white)
+![Core&nbsp;ML](https://img.shields.io/badge/Core%20ML-34C759?style=flat&logo=apple&logoColor=white)
 ![MapKit](https://img.shields.io/badge/MapKit-30D158?style=flat&logo=apple&logoColor=white)
-![StoreKit](https://img.shields.io/badge/StoreKit%202-0071E3?style=flat&logo=apple&logoColor=white)
+![StoreKit&nbsp;2](https://img.shields.io/badge/StoreKit%202-0071E3?style=flat&logo=apple&logoColor=white)
 ![CloudKit](https://img.shields.io/badge/CloudKit-3693F3?style=flat&logo=icloud&logoColor=white)
+![ActivityKit](https://img.shields.io/badge/ActivityKit-FF9500?style=flat&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
 
 ---
 
-## Connect
+### 🧭 How I work
 
-[![Website](https://img.shields.io/badge/Website-ixsuper.github.io-000?style=flat&logo=safari&logoColor=white)](https://ixsuper.github.io)
-[![X](https://img.shields.io/badge/@thesuper__hunter-000?style=flat&logo=x&logoColor=white)](https://x.com/thesuper_hunter)
-[![Email](https://img.shields.io/badge/alsuhaymiziyad@gmail.com-000?style=flat&logo=gmail&logoColor=white)](mailto:alsuhaymiziyad@gmail.com)
+- **Solo by choice.** One brain, one vision — every decision survives intact from sketch to ship.
+- **Polish or wait.** A screen isn't done until the haptics feel intentional and the animations earn their keep.
+- **Localization, not translation.** 25 languages, proofread by humans. Arabic is the test case, never the afterthought.
+- **Small surface, deep work.** Fewer things, done with care, beats more things rushed.
+
+---
+
+<p align="center">
+  <sub>© 2025–2026 Ziyad Alsuhaymi · <a href="https://ixsuper.github.io">All apps &amp; pages</a></sub>
+</p>
