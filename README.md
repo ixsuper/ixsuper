@@ -15,11 +15,20 @@
 
 ### 🚀 Live on the App Store
 
-**[Color Number Match](https://apps.apple.com/app/id6761441678)** — a vibrant puzzle game with 2,000+ levels across 10 packs, Metal shaders, haptic feedback, and 25 languages including full Arabic RTL.
+| | App | What it is |
+|:-:|---|---|
+| 🔢 | **[Color Number Match](https://apps.apple.com/app/id6761441678)** | A vibrant puzzle game with 2,000+ levels across 10 packs, Metal shaders, haptic feedback, and 24 languages including full Arabic RTL. |
+| 🧩 | **[Block Blaster Puzzle](https://apps.apple.com/app/id6761656702)** | A satisfying block puzzle with explosive combos, sensory themes, and finely tuned haptic feedback. 5 game modes, 50 adventure levels, 7 languages. |
 
-<a href="https://apps.apple.com/app/id6761441678">
-  <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="44">
-</a>
+<p>
+  <a href="https://apps.apple.com/app/id6761441678">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download Color Number Match on the App Store" height="44">
+  </a>
+  &nbsp;
+  <a href="https://apps.apple.com/app/id6761656702">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download Block Blaster Puzzle on the App Store" height="44">
+  </a>
+</p>
 
 ---
 
@@ -27,8 +36,7 @@
 
 | | App | What it is |
 |:-:|---|---|
-| 🌍 | **[Echoes: Echoes of the City](https://ixsuper.github.io/echoes/)** | Capture living memories with photo, ambient sound, weather &amp; location. Built for iOS 26 with **Liquid Glass**, on-device ML, and an immersive memory map. Coming soon in 11 languages. |
-| 🧩 | **[Block Blaster Puzzle](https://ixsuper.github.io/block-blaster/)** | A satisfying block puzzle with explosive combos, sensory themes, and finely tuned haptic feedback. 6 game modes, 50 adventure levels, 7 languages. |
+| 🌍 | **[Echoes: Echoes of the City](https://ixsuper.github.io/echoes/)** | Capture living memories with photo, ambient sound, weather &amp; location. Built for iOS 26 with **Liquid Glass**, on-device ML, and an immersive memory map. 14 languages at launch. |
 
 ---
 
@@ -51,7 +59,7 @@
 
 - **Solo by choice.** One brain, one vision — every decision survives intact from sketch to ship.
 - **Polish or wait.** A screen isn't done until the haptics feel intentional and the animations earn their keep.
-- **Localization, not translation.** 25 languages, proofread by humans. Arabic is the test case, never the afterthought.
+- **Localization, not translation.** Translations proofread by humans. Arabic is the test case, never the afterthought.
 - **Small surface, deep work.** Fewer things, done with care, beats more things rushed.
 
 ---
